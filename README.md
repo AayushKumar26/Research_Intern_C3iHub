@@ -1,7 +1,7 @@
 # Trustless Atomic Swaps using Adaptor Signatures
 
 ## Overview
-This repository contains the research work conducted as a **Research Intern** at [C3iHub, IIT Kanpur](https://c3ihub.org) under the supervision of **Dr. Ras Dwivedi** (Senior Vice President). The project focuses on designing and implementing secure, scalable, and flexible protocols for trustless atomic swaps using adaptor signatures without timelocks.
+This repository contains the research work conducted as a **Research Intern** at [C3iHub, IIT Kanpur](https://c3ihub.org) under the supervision of [**Dr. Ras Dwivedi** (CTO, C3iHub)](https://www.linkedin.com/in/ras-dwivedi/). The project focuses on designing and implementing secure, scalable, and flexible protocols for trustless atomic swaps using adaptor signatures without timelocks.
 
 ## Project Objectives
 The primary objectives of this research project are:
